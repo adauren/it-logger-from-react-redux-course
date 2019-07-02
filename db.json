@@ -1,25 +1,12 @@
 {
-  "logs": [],
-  "techs": [
+  "logs": [
     {
-      "id": 1,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 2,
-      "firstName": "John",
-      "lastName": "Doe"
-    },
-    {
-      "id": 3,
-      "firstName": "Jen",
-      "lastName": "Williams"
-    },
-    {
-      "firstName": "Dauren",
-      "lastName": "Frank",
-      "id": 4
+      "message": "Server Error",
+      "attention": true,
+      "tech": "Robin Robbbb",
+      "date": "2019-07-02T04:13:07.730Z",
+      "id": 1
     }
-  ]
+  ],
+  "techs": []
 }
